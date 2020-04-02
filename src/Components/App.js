@@ -1,3 +1,4 @@
+//React Stopwatch Application 
 import React, { Component } from 'react';
 import './App.css';
 import Title from './Title/Title';
